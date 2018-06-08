@@ -1,0 +1,38 @@
+[ 
+		{
+			"category":"Comment", "loc":"360 -10", "text":"Campaign ECA", "key":-13
+		},
+		{
+			"key":-1, "category":"Start", "loc":"77.99999999999994 9", "text":"Start"
+		},
+		{
+			"text":"Are you happy with your college? Type Yes | No as reply.", "key":-2, "loc":"78 90"
+		},
+		{
+			"text":"Check", "figure":"Diamond", "key":-3, "loc":"78 181"
+		},
+		{
+			"text":"Great… enjoy your studies and all the very best for a bright career.", "key":-5, "loc":"-39 262"
+		},
+		{
+			"text":"Sorry to hear that. Would you like a meeting with the counsellor? Type Yes | No", "key":-6, "loc":"308 262"
+		},
+		{
+			"text":"Check", "figure":"Diamond", "key":-8, "loc":"308 374"
+		},
+		{
+			"text":"Are you happy with your college? Type Yes | No as reply.", "key":-12, "loc":"76 91"
+		},
+		{
+			"text":"Would you prefer a morning meeting or an afternoon meeting? Type 1 for morning 2 for afternoon.", "key":-14, "loc":"517 377"
+		},
+		{
+			"text":"Check", "figure":"Diamond", "key":-15, "loc":"517 490"
+		},
+		{
+			"text":"OK. Your meeting with counsellor John is fixed for Monday morning 10 AM.", "key":-16, "loc":"517 614"
+		},
+		{
+			"category":"End", "text":"End", "key":-4, "loc":"308 612"
+		}
+		]
